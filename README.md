@@ -1,5 +1,5 @@
 # Forte
-Convert Deb to Dylib files on iOS.
+Convert Deb to Dylib on iOS.
 
 Requires [a-Shell mini](https://apps.apple.com/app/id1543537943).
 
