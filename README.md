@@ -1,5 +1,5 @@
 # Forte
-Convert Deb to Dylib on iOS. Handy for [LiveContainer](https://github.com/LiveContainer/LiveContainer) and [TrollFools](https://github.com/Lessica/TrollFools).
+Convert Deb to Dylib on iOS. Handy for [LiveContainer](https://github.com/LiveContainer/LiveContainer).
 
 Requires [Unarchiver](https://apps.apple.com/app/id1552555240).
 
